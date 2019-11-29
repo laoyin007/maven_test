@@ -1,0 +1,41 @@
+.DS_Store
+
+## JetBrains
+.idea
+*.iws
+*.iml
+out/
+/out/
+.idea_modules/
+
+## Development
+/application.yml
+/application-*.yml
+/config/application.yml
+/config/application-*.yml
+
+## Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+## Local/Temp
+**/.mvn/
+**/.gradle/
+**/build/
+**/classes/
+**/build-repo/
+**/logs/
+**/target/
+*.gradletasknamecache
+nohup.out
+*/nohup.out
+gradle.properties
+/lib/
+
+application-ut.yml
+http-client.private.env.json
