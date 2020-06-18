@@ -39,3 +39,10 @@ gradle.properties
 
 application-ut.yml
 http-client.private.env.json
+.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/workspace.xml
+maven_test.iml
+
+/.idea/
