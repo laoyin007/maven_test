@@ -158,8 +158,16 @@
       <workItem from="1575017161401" duration="2723000" />
       <workItem from="1592444173883" duration="746000" />
       <workItem from="1592445055140" duration="773000" />
-      <workItem from="1592447566786" duration="73000" />
+      <workItem from="1592447566786" duration="206000" />
     </task>
+    <task id="LOCAL-00001" summary="develop-001">
+      <created>1592447705797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592447705797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +185,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="develop-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="develop-001" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="208" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592445760092">
       <screen x="-216" y="-1080" width="1920" height="1080" />
@@ -186,6 +198,14 @@
       <screen x="-216" y="-1080" width="1920" height="1080" />
     </state>
     <state x="508" y="-731" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592444868148" />
+    <state x="351" y="-968" width="905" height="762" key="CommitChangelistDialog2" timestamp="1592447705642">
+      <screen x="-216" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="351" y="-968" width="905" height="762" key="CommitChangelistDialog2/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592447705642" />
+    <state x="344" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1592447749955">
+      <screen x="-216" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="344" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592447749955" />
   </component>
   <component name="masterDetails">
     <states>
