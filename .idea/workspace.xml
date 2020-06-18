@@ -83,7 +83,9 @@
     <option name="height" value="1080" />
   </component>
   <component name="ProjectId" id="1dTLWxRqCvjzqQvpbGiMCrNKIB4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -202,10 +204,10 @@
       <screen x="-216" y="-1080" width="1920" height="1080" />
     </state>
     <state x="351" y="-968" width="905" height="762" key="CommitChangelistDialog2/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592447705642" />
-    <state x="344" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1592447749955">
+    <state x="344" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1592447881257">
       <screen x="-216" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="344" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592447749955" />
+    <state x="344" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592447881257" />
   </component>
   <component name="masterDetails">
     <states>
