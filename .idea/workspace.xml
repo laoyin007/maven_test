@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090eb50f-a84c-4db6-8ecf-d6445d7e9da8" name="Default Changelist" comment="" />
+    <list default="true" id="090eb50f-a84c-4db6-8ecf-d6445d7e9da8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dev1" beforeDir="false" afterPath="$PROJECT_DIR$/dev1" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +51,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -151,6 +158,7 @@
       <workItem from="1575017161401" duration="2723000" />
       <workItem from="1592444173883" duration="746000" />
       <workItem from="1592445055140" duration="773000" />
+      <workItem from="1592447566786" duration="73000" />
     </task>
     <servers />
   </component>
