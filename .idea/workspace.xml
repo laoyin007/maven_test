@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090eb50f-a84c-4db6-8ecf-d6445d7e9da8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maven_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maven_test.iml" afterDir="false" />
-    </list>
+    <list default="true" id="090eb50f-a84c-4db6-8ecf-d6445d7e9da8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +150,7 @@
       <updated>1575017157127</updated>
       <workItem from="1575017161401" duration="2723000" />
       <workItem from="1592444173883" duration="746000" />
-      <workItem from="1592445055140" duration="337000" />
+      <workItem from="1592445055140" duration="773000" />
     </task>
     <servers />
   </component>
