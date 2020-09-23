@@ -2,21 +2,35 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="test-001" />
+        <module name="kafka-test" />
+        <module name="mybatis001" />
+        <module name="rabbitmq-client" />
+        <module name="rabbitmq-test" />
+        <module name="log4j2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="maven_test" target="11" />
-      <module name="test-001" target="11" />
+      <module name="kafka-test" target="8" />
+      <module name="log4j2" target="8" />
+      <module name="maven_test" target="8" />
+      <module name="mybatis001" target="8" />
+      <module name="rabbitmq-client" target="8" />
+      <module name="rabbitmq-test" target="8" />
+      <module name="test-001" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="maven_test" options="-parameters" />
+      <module name="kafka-test" options="-parameters" />
+      <module name="log4j2" options="-parameters" />
+      <module name="mybatis001" options="-parameters" />
+      <module name="rabbitmq-client" options="-parameters" />
+      <module name="rabbitmq-test" options="-parameters" />
       <module name="test-001" options="-parameters" />
     </option>
   </component>

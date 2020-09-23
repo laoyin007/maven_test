@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/maven_test.iml" filepath="$PROJECT_DIR$/maven_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test-001/test-001.iml" filepath="$PROJECT_DIR$/test-001/test-001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-test/kafka-test.iml" filepath="$PROJECT_DIR$/kafka-test/kafka-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log4j2/log4j2.iml" filepath="$PROJECT_DIR$/log4j2/log4j2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/maven_test.iml" filepath="$PROJECT_DIR$/.idea/maven_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis001/mybatis001.iml" filepath="$PROJECT_DIR$/mybatis001/mybatis001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-client/rabbitmq-client.iml" filepath="$PROJECT_DIR$/rabbitmq-client/rabbitmq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-test/rabbitmq-test.iml" filepath="$PROJECT_DIR$/rabbitmq-test/rabbitmq-test.iml" />
     </modules>
   </component>
 </project>

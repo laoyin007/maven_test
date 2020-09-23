@@ -16,11 +16,15 @@
     <description>111test for maven</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
 
     <modules>
-        <module>test-001</module>
+        <module>kafka-test</module>
+        <module>mybatis001</module>
+        <module>rabbitmq-test</module>
+        <module>rabbitmq-client</module>
+        <module>log4j2</module>
     </modules>
 
     <dependencies>
@@ -39,6 +43,11 @@
                     <artifactId>junit-vintage-engine</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
 
