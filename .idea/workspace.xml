@@ -19,60 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090eb50f-a84c-4db6-8ecf-d6445d7e9da8" name="Default Changelist" comment="develop-001">
-      <change afterPath="$PROJECT_DIR$/java_test/src/com/laoyin/java/test/FutureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-test/src/main/java/com/laoyin/kafka/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-test/src/main/java/com/laoyin/kafka/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-test/src/main/java/com/laoyin/kafka/ConsumerSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j2/src/main/java/com/laoyin/log4j2/Log4j2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j2/src/main/java/com/laoyin/log4j2/TestLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j2/src/main/java/com/laoyin/log4j2/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j2/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/java/com/laoyin/mybatis/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/java/com/laoyin/mybatis/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/java/com/laoyin/mybatis/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/java/com/laoyin/mybatis/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/java/com/laoyin/mybatis/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/resources/gio.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis001/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-client/src/main/java/com/laoyin/amqp/client/RabbitmqClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-client/src/main/java/com/laoyin/amqp/client/config/RabbitConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-client/src/main/java/com/laoyin/amqp/client/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-test/src/main/java/com/laoyin/amqp/RabbitmqApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-test/src/main/java/com/laoyin/amqp/config/RabbitConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-test/src/main/java/com/laoyin/amqp/consumer/UserConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-test/src/main/java/com/laoyin/amqp/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-test/src/main/java/com/laoyin/amqp/dto/TestReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-test/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/gongyq.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="090eb50f-a84c-4db6-8ecf-d6445d7e9da8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maven_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maven_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/src/main/java/com/laoyin/maven/test001/Test001Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/src/main/java/com/laoyin/maven/test001/controller/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-001/src/test/java/com/laoyin/maven/test001/Test001ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev2" beforeDir="false" afterPath="$PROJECT_DIR$/dev2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -472,9 +421,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Log4j2Application" />
-        <item itemvalue="Application.TestLog" />
         <item itemvalue="Spring Boot.RabbitmqClientApplication" />
         <item itemvalue="JUnit.UserMapperTest.test1" />
+        <item itemvalue="Application.TestLog" />
         <item itemvalue="Application.FutureTest" />
       </list>
     </recent_temporary>
@@ -519,6 +468,7 @@
       <workItem from="1600652885559" duration="4315000" />
       <workItem from="1600742521514" duration="3871000" />
       <workItem from="1600757896327" duration="8552000" />
+      <workItem from="1600868712957" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="develop-001">
       <created>1592447705797</created>
@@ -527,7 +477,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592447705797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="develop-001">
+      <created>1600868745588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600868745588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="develop-001">
+      <created>1600868928407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600868928407</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,10 +520,11 @@
     <state x="208" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1593582590575" />
     <state x="318" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-216.-1080.1920.1080@0.0.1440.900" timestamp="1597646017360" />
     <state x="318" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593584886230" />
-    <state x="508" y="-731" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592444868148">
-      <screen x="-216" y="-1080" width="1920" height="1080" />
+    <state x="543" y="291" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600869118845">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="508" y="-731" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592444868148" />
+    <state x="543" y="291" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1600869118845" />
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1597124867443">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -569,11 +534,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="520" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900/-216.-1080.1920.1080@0.0.1440.900" timestamp="1597391563206" />
-    <state x="425" y="93" width="846" height="635" key="CommitChangelistDialog2" timestamp="1600227509979">
+    <state x="425" y="45" width="846" height="635" key="CommitChangelistDialog2" timestamp="1600868928277">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="351" y="-968" width="905" height="762" key="CommitChangelistDialog2/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592447705642" />
     <state x="425" y="93" width="846" height="635" key="CommitChangelistDialog2/0.0.1440.900/-216.-1080.1920.1080@0.0.1440.900" timestamp="1600227509979" />
+    <state x="425" y="45" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600868928277" />
     <state width="657" height="466" key="DebuggerActiveHint" timestamp="1597649001143">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -773,10 +739,11 @@
     <state x="329" y="113" width="1024" height="787" key="SettingsEditor/0.0.1440.900/-216.-1080.1920.1080@0.0.1440.900" timestamp="1600239143157" />
     <state x="352" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593584317144" />
     <state x="223" y="-925" key="SettingsEditor/0.23.1440.792/-216.-1057.1920.1057@-216.-1057.1920.1057" timestamp="1600742750301" />
-    <state x="344" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1592447881257">
-      <screen x="-216" y="-1080" width="1920" height="1080" />
+    <state x="420" y="233" key="Vcs.Push.Dialog.v2" timestamp="1600868932545">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="344" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1592447881257" />
+    <state x="420" y="233" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600868932545" />
     <state x="370" y="205" width="1070" height="518" key="find.popup" timestamp="1599555232507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -798,40 +765,6 @@
     <state x="297" y="-845" width="894" height="812" key="search.everywhere.popup/0.23.1440.795/-216.-1080.1920.1080@-216.-1080.1920.1080" timestamp="1596693117374" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test-001/src/main/java/com/laoyin/maven/test001/service/impl/UserServiceImpl.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mybatis001/src/main/java/com/laoyin/mybatis/service/impl/UserServiceImpl.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/SqlSessionUtils.java</url>
-          <line>88</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java</url>
-          <line>433</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/SqlSessionUtils.java</url>
-          <line>207</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/growing/sdk/java/growingio-java-sdk/1.0.4/growingio-java-sdk-1.0.4-sources.jar!/io/growing/sdk/java/sender/net/HttpUrlProvider.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo typeName="org.apache.ibatis.binding.MapperProxy" fieldName="sqlSession" />
@@ -839,10 +772,5 @@
         <PinnedItemInfo typeName="com.zaxxer.hikari.pool.PoolEntry" fieldName="connection" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="SpringBootApplicationConfigurationType">
-        <watch expression="isEmbedded()" language="JAVA" custom="org.springframework.transaction.support.TransactionSynchronizationManager" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
