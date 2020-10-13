@@ -19,4 +19,10 @@
         <typeAlias alias="ArrayList" type="java.util.ArrayList" />
         <typeAlias alias="LinkedList" type="java.util.LinkedList" />
     </typeAliases>
+    <plugins>
+        <plugin interceptor="com.laoyin.mybatis.interceptor.LimitPlugin">
+            <property name="dbType" value="mysql"/>
+            <property name="limit" value="3"/>
+        </plugin>
+    </plugins>
 </configuration>

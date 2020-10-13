@@ -3,6 +3,8 @@ package com.laoyin.mybatis.mapper;
 import com.laoyin.mybatis.model.User;
 import org.apache.ibatis.annotations.Mapper;
 
+import java.util.List;
+
 /**
  * @author : yinquan.gong
  * @version V1.0
@@ -15,4 +17,6 @@ public interface UserMapper {
     User findById(Long id);
 
     int update(User user);
+
+    List<User> findAll();
 }

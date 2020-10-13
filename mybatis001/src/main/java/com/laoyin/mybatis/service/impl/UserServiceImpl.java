@@ -8,6 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.List;
+
 /**
  * @author : yinquan.gong
  * @version V1.0
@@ -37,5 +39,10 @@ public class UserServiceImpl implements UserService {
     public Boolean create(User user) {
 //        return userMapper.insert(user) > 0;
         return null;
+    }
+
+    @Override
+    public List<User> findAll() {
+        return userMapper.findAll();
     }
 }

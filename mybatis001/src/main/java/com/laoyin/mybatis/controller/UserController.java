@@ -8,6 +8,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
@@ -28,6 +29,11 @@ public class UserController {
 
     public final static ExecutorService exeutor = Executors.newFixedThreadPool(9);
 
+    @GetMapping
+    public List<User> getAll() {
+        return userService.findAll();
+    }
+
 
     @PatchMapping
     public void create(@RequestBody User user) {
@@ -41,19 +47,5 @@ public class UserController {
 //            exeutor.execute(() -> userService.update(id, "xx" + j));
 //        }
         userService.update(id, "xx");
-    }
-
-
-    @GetMapping
-    public void get() throws Exception {
-        GIOEventMessage eventMessage = new GIOEventMessage.Builder()
-//                .eventTime(System.currentTimeMillis())
-                .eventTime(System.currentTimeMillis() - 24 * 3600 * 1000)
-                .eventKey("wechat_old")
-                .loginUserId("00b5eda5-f384-468f-a6e9-5e649d1280aa")
-                .addEventVariable("wechat_old_var", "lalala")
-                .build();
-        GrowingAPI.send(eventMessage);
-        log.info("========");
     }
 }

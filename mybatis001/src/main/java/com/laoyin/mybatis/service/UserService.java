@@ -3,6 +3,8 @@ package com.laoyin.mybatis.service;
 
 import com.laoyin.mybatis.model.User;
 
+import java.util.List;
+
 /**
  * @author : yinquan.gong
  * @version V1.0
@@ -14,4 +16,6 @@ public interface UserService {
     void update(Long id, String address);
 
     Boolean create(User user);
+
+    List<User> findAll();
 }

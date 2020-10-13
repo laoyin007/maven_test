@@ -15,4 +15,8 @@
             email = #{email}
         where id = #{id}
     </update>
+
+    <select id="findAll" resultType="com.laoyin.mybatis.model.User">
+        select * from user
+    </select>
 </mapper>
